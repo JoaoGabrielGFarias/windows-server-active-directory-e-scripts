@@ -1,1 +1,0 @@
-Start-Process "gpupdate.exe" -ArgumentList "/force" -WindowStyle Hidden
