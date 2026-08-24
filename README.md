@@ -18,17 +18,6 @@ Os códigos aqui presentes foram criados para facilitar tarefas do dia a dia de 
 
 ---
 
-## 📂 Estrutura do Repositório
-
-| Pasta | Descrição |
-|-------|-----------|
-| `scripts/` | Scripts PowerShell para AD, DHCP, DNS, GPO e mais. |
-| `gpo/` | Exemplos de GPOs exportadas (XML). |
-| `csv/` | Arquivos CSV para criação de usuários em lote. |
-| `docs/` | Documentação complementar e guias rápidos. |
-
----
-
 ## 🚀 Exemplo de script
 
 ```powershell
